@@ -1,7 +1,7 @@
 # PersonalStereo
 This Android App allows users to easily browse and play music songs by genres, albums, artists, songs and folder. It manages all your music files quickly and easily. This app supports almost all types of mp3, midi, wav, flac raw, aac files and other audio formats.
 
-# Features to be supported
+# Features to be supported - [refer this](http://www.mikrosonic.com/select-features)
 * Should clearly arrange all-in-one-view application
 * Should browse your music by albums, artists, genres, playlists and tracks
 * Implement advanced playlist system
