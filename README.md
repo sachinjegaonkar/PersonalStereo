@@ -17,13 +17,13 @@ This personal intelligent music information retrieval system provides below feat
     2. Lyrics Identification.
 
 
-Features supported:
+# Features supported:
   1. DLNA playback, Internet Radio playback, additional music from USB connection, from external devices like smartphone or computer, etc.
   2. One of the unique features - Play Timer. User can set-up the play timer which is programmed to be triggered with automatic playback of pre-configured tracks initially. Further, it intelligently decides what to play next based on the recommendations.
   3. Allows users to browse the music content based on their classification - Artists, Albums, Genres, Tracks, Languages, Contries, etc.
 
 
-Steps to build the Machine Learning models:
+# Steps to build the Machine Learning models:
   1. Load audio files - Background task
   2. Extract features from audio - Background task
   3. Convert the data to pass it in our deep learning model - Background task
