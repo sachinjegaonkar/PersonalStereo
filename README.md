@@ -1,3 +1,6 @@
+[![Android Developer Challenge](https://github.com/sachinjegaonkar/PersonalStereo/blob/master/Android%20Developer%20Challenge.jpeg)](https://github.com/sachinjegaonkar/PersonalStereo)
+
+
 # Personal Stereo - #AndroidDevChallenge
 
 Digital music become widely available from different media sources like internet radio, digital storage devices, internet music, DLNA sources etc. With vast amount of digital music accessible to the end users, there is a need of developing tools to effectively and efficiently retrieve and manage the music of interest to them. Audio Processing with Machine Learning models is an interesting topic with many potential applications that we can offer to the end users. With that opportunity, we can provide plenty of information alongside to the end user while playing the right music for every moment.
