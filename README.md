@@ -1,6 +1,5 @@
 [![Android Developer Challenge](https://github.com/sachinjegaonkar/PersonalStereo/blob/master/Android%20Developer%20Challenge.jpeg)](https://github.com/sachinjegaonkar/PersonalStereo)
 
-
 # Idea - Personal Stereo.
 
 Digital music become widely available from different media sources like internet radio, digital storage devices, internet music, DLNA sources etc. With vast amount of digital music accessible to the end users, there is a need of developing tools to effectively and efficiently retrieve and manage the music of interest to them. Audio Processing with Machine Learning models is an interesting topic with many potential applications that we can offer to the end users. With that opportunity, we can provide plenty of information alongside to the end user while playing the right music for every moment.
@@ -70,10 +69,10 @@ Optimization and Validation Stage.
 
 # About Me. 
 
-I am Sachin Jegaonkar. The Professional and an Individual Contributor. Passionate about Research and Development type of work. Contributing some of the open source projects. Working on some of the projects, which currently are in ideation phase mainly by using Blockchain and/or Machine Learning technologies. 
+I am [Sachin Jegaonkar](https://www.linkedin.com/in/sachinjegaonkar). The Professional and an Individual Contributor. Passionate about Research and Development type of work. Contributing some of the open source projects. Working on some of the projects, which currently are in ideation phase mainly by using Blockchain and/or Machine Learning technologies. 
 
-      I.	Marketplace Solution – A distributed ledger technology based cattle marketplace solution
-     II.	Crop Insurance Solution (Private Repository) – Decentralized Crop Insurance Solution
-    III.	Micro Lending Platform – Decentralized, Democratized, Transparent Micro-Lending platform based on Block chain
+* [Marketplace Solution](https://github.com/sachinjegaonkar/MarketplaceSolution) – A distributed ledger technology based cattle marketplace solution
+* [Crop Insurance Solution](https://github.com/sachinjegaonkar/CropInsuranceSolution) (Private Repository) – Decentralized Crop Insurance Solution
+* [Micro Lending Platform](https://github.com/sachinjegaonkar/MicroLendingPlatform) – Decentralized, Democratized, Transparent Micro-Lending platform based on Block chain
 
 I am enthusiastic and have an exposure to work on Android and Cloud development platform.
