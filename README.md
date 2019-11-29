@@ -42,27 +42,27 @@ This project is at initial stage. Though I have an idea how it should look like 
 
 Plan is to follow below roadmap to get going. Please bear me as the details mentioned below are at very high level.
 
-Step #1: Explore the Idea — Come up with new big features. [December 2019]
+- Step #1: Explore the Idea — Come up with new big features. [December 2019]
 
 This is the idea-generating stage where I would be either bouncing between the number of different ideas, or would be looking to explore more into the identified and tagged ideas.
 
-Step #2: Research — Gather supporting data and examples to support my idea. [December 2019 – January 2020]
+- Step #2: Research — Gather supporting data and examples to support my idea. [December 2019 – January 2020]
 
 I would need a specific amount of research time to move to the next step. So that, I should feel I have enough to start and stop collecting the further details.
 
 Before moving forward, it is critical to understand it better. Gathering research and supporting data on the topic, and understanding what else can be brought forward which is similar. I would be gathering supporting evidences and would be looking for the sources that will allow me to go deeper into my topic.
 
-Step #3: Roadmap — Build a project roadmap. [January 2020]
+- Step #3: Roadmap — Build a project roadmap. [January 2020]
 
 With this step, I would define the milestones, high-level tasks and their estimations. I would break down those tasks into detailed smaller chunks to deliver those as components. The critical paths, gray areas can be determined in this step.
 
 I will ensure the plan includes key milestones and specific deadlines to keep that accountable.
 
-Step #4: Development — Idea Implementation. [February 2020 – April 2020]
+- Step #4: Development — Idea Implementation. [February 2020 – April 2020]
 
 Having project roadmap and a list of tasks and timelines associated with it, I know now it is the go time. 
 
-Step #5: Optimization — Make it work faster and better. [April 2020 – May 2020]
+- Step #5: Optimization — Make it work faster and better. [April 2020 – May 2020]
 
 Optimization and Validation Stage.
 
